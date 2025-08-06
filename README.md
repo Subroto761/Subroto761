@@ -1,24 +1,77 @@
-# 💫 About Me:
-🔭 I’m currently working on a project that connects laborers of various types on a single platform to help them find jobs.<br>👯‍♀️ I’m open to collaborating on innovative tech solutions.<br>🤝🏻 I’m looking for assistance with setting up CI/CD pipelines.<br>🌱 I’m currently learning Kubernetes (K8s) to enhance my DevOps skills.<br>💬 Feel free to ask me about web development, cloud infrastructure, and emerging tech trends!<br>⚡ Fun fact: I’m always up for learning new tech stacks and building efficient systems.<br><br>
+<div align="center">
 
+# Subroto Mondal
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/758027972631592971/758027973076189296) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_subroto_mondal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cnctmesubroto) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Subroto-Mondal-23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Subroto__Mondal) 
+**A Full-Stack Developer & DevOps Enthusiast**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Subroto761&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Subroto761&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subroto761&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subroto761&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/cnctmesubroto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/Subroto__Mondal" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white"></a>
+  <a href="https://instagram.com/subrotomondal__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"></a>
+  <a href="https://discord.com/channels/758027972631592971/758027973076189296" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"></a>
+  <a href="https://quora.com/profile/Subroto-Mondal-23" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=flat-square&logo=Quora&logoColor=white"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Subroto761&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🌱 About Me
 
+- 🔭 I’m currently building a platform to **connect laborers with job opportunities**.
+- 👯 I’m open to collaborating on innovative tech solutions.
+- 🤝 I’m looking for help setting up advanced **CI/CD pipelines**.
+- 🌱 I’m currently learning **Kubernetes (K8s)** to enhance my DevOps skills.
+- 💬 Feel free to ask me about web development, cloud infrastructure, and emerging tech!
+- ⚡ Fun fact: I’m always up for learning new tech stacks and building efficient systems.
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <b>Languages:</b><br>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+</p>
+<p align="center">
+  <b>Cloud & DevOps:</b><br>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+</p>
+<p align="center">
+  <b>Databases & Tools:</b><br>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+---
+
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subroto761&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subroto761&theme=dark&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subroto761&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</p>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Subroto761&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</p>
+
+<div align="center">
+
+---
+*“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler*
+<br><br>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Subroto761&icon=0&color=0"/>
+</a>
+
+</div>
