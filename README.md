@@ -1,77 +1,73 @@
-<div align="center">
+# Hi, I'm Subroto 👋
 
-# Subroto Mondal
+**Cloud & DevOps Engineer** · building monitoring, automation and cost-aware infrastructure on AWS and Azure
 
-**A Full-Stack Developer & DevOps Enthusiast**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cnctsubroto-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cnctsubroto)
+[![Email](https://img.shields.io/badge/Email-subrotomondal761%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:subrotomondal761@gmail.com)
+![Location](https://img.shields.io/badge/Gurugram%2C%20India-open%20to%20relocation-555?style=flat-square)
 
-</div>
+- 🎓 B.Tech in Computer Science and Engineering, Lovely Professional University (2026)
+- ☁️ Interested in **cloud infrastructure, DevOps, SRE and observability**, and how to keep systems reliable *and* cheap to run
+- 🧪 Currently a QA intern, testing APIs and web apps with Postman, Selenium and Jira
+- 🌱 Learning **Terraform, Go and GitLab CI/CD**; exploring agentic AI
 
-<p align="center">
-  <a href="https://linkedin.com/in/cnctmesubroto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/Subroto__Mondal" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white"></a>
-  <a href="https://instagram.com/subrotomondal__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"></a>
-  <a href="https://discord.com/channels/758027972631592971/758027973076189296" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"></a>
-  <a href="https://quora.com/profile/Subroto-Mondal-23" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=flat-square&logo=Quora&logoColor=white"></a>
-</p>
+## 🏅 Certifications
+
+| | |
+|---|---|
+| ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **Microsoft Certified: Azure Administrator Associate (AZ-104)** |
+| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | **AWS Academy Graduate:** Cloud Foundations and Cloud Architecting |
+| ![SAP](https://img.shields.io/badge/-SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white) | **SAP Certified: Data Analyst (SAP Analytics Cloud)** |
+
+## 🚀 Featured projects
+
+### [☁️ Cloud FinOps Alerting System](https://github.com/Subroto761/cloud-finops-alerting-system)
+Finds idle EC2 instances, unattached EBS volumes and unused Elastic IPs, tracks daily AWS spend, and alerts on cost spikes and budget overruns.
+`Python` `boto3` `Prometheus` `Alertmanager` `Grafana` `Terraform` `Docker Compose` `GitHub Actions`
+> Alert rules are unit-tested with promtool. CI spins up the full stack and checks that alerts fire. There's also a demo mode that runs without an AWS account.
+
+### [🔥 Ephemeral File Sharing Service](https://github.com/Subroto761/ephemeral-file-sharing-service)
+A containerised microservice that shares a file exactly once, then deletes it, with automatic expiry after 24 hours.
+`Java 17` `Javalin` `Docker` (multi-stage, non-root) `GitHub Actions`
+> The one-time download is race-safe, and CI runs an end-to-end container smoke test.
+
+### [📣 Social Campaign Manager](https://github.com/Subroto761/Social-Campaign-Manager-Java)
+A client–server app with a Spring Boot REST API, a JavaFX desktop client and AI-generated campaign descriptions from Gemini.
+`Java 21` `Spring Boot` `Spring Data JPA` `JavaFX` `REST` `Gemini API`
+
+## 🛠️ Tech stack
+
+**Cloud:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Containers & IaC:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+
+**Observability:**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**CI/CD & tools:**
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Languages & data:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Testing:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
-### 🌱 About Me
-
-- 🔭 I’m currently building a platform to **connect laborers with job opportunities**.
-- 👯 I’m open to collaborating on innovative tech solutions.
-- 🤝 I’m looking for help setting up advanced **CI/CD pipelines**.
-- 🌱 I’m currently learning **Kubernetes (K8s)** to enhance my DevOps skills.
-- 💬 Feel free to ask me about web development, cloud infrastructure, and emerging tech!
-- ⚡ Fun fact: I’m always up for learning new tech stacks and building efficient systems.
-
----
-
-### 🛠️ My Tech Stack
-
 <p align="center">
-  <b>Languages:</b><br>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subroto761&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
-<p align="center">
-  <b>Cloud & DevOps:</b><br>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
-</p>
-<p align="center">
-  <b>Databases & Tools:</b><br>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
----
-
-### 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subroto761&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subroto761&theme=dark&hide_border=false" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subroto761&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Subroto761&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</p>
-
-<div align="center">
-
----
-*“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” - Martin Fowler*
-<br><br>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Subroto761&icon=0&color=0"/>
-</a>
-
-</div>
